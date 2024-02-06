@@ -1,0 +1,19 @@
+#demo-img {
+    width: 200px;
+    height: 200px;
+  }
+
+body {
+    text-align: left;
+    font-family: Arial, sans-serif;
+  }
+  
+  #count {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  #cps {
+    font-size: 24px;
+    color: #888;
+  }
